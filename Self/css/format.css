@@ -33,3 +33,7 @@ img{
     left:40%;
     box-sizing: border-box;
 }
+.textu{
+    position: absolute;
+    z-index: 8;
+}
